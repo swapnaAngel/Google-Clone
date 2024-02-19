@@ -73,7 +73,6 @@ function App() {
             <li><div>Privacy</div></li>
             <li><div>Terms</div></li>
             <li><div>Settings</div></li>
-            <li><div class = "use-google-as">Use Google as</div></li>
           </ul>
         </nav>
       </div>
