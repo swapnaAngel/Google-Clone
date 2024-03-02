@@ -41,8 +41,6 @@ function App() {
         </nav>
       </div>
 
-
-
       <div class="mainContent">
         <div>
           <img src="icons/google.png" alt="Google Icon" class=" google" />

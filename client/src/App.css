@@ -17,7 +17,7 @@ body, html
   padding: 0%;
   /* background-color: aqua; */
   width: 100%;
-  height: 10%;
+  height: 5%;
   display: flex;
   text-align: center;
   align-items: center;
@@ -27,7 +27,7 @@ body, html
 .left-appbar 
 {
   margin: 10px;
-  padding: 10px;
+  padding-left: 10px;
   /* background-color: yellow; */
   display: flex;
   flex-direction: row;
@@ -59,7 +59,7 @@ nav li:hover
 .right-appbar
 {
   margin: 10px;
-  padding: 10px;
+  padding-right: 20px;
   /* background-color: pink; */
   display: flex;
   text-align: center;
@@ -72,6 +72,7 @@ nav ul li
 }
 nav ul li button
 {
+  width: 55px;
   color: white;
   background-color: rgb(36, 74, 245);
   border: 1px solid rgb(234, 228, 228);
@@ -79,7 +80,7 @@ nav ul li button
 
 .mainContent
 {
-  height: 75%;
+  height: 90%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -94,6 +95,8 @@ nav ul li button
   /* position: absolute;
   left: 50%; */
   /* text-align: center; */
+  /* background-color: green; */
+
 }
 
 .search
@@ -150,7 +153,7 @@ nav ul li button
   padding: 0%;
   /* background-color: aqua; */
   width: 100%;
-  height: 10%;
+  height: 5%;
   display: flex;
   text-align: center;
   align-items: center;
@@ -159,7 +162,7 @@ nav ul li button
 .left-footer
 {
   margin: 10px;
-  padding: 10px;
+  padding-left: 10px;
   /* background-color: yellow; */
   display: flex;
   flex-direction: row;
@@ -169,7 +172,7 @@ nav ul li button
 .right-footer
 {
   margin: 10px;
-  padding: 10px;
+  padding-right: 10px;
   /* background-color: pink; */
   display: flex;
   text-align: center;
