@@ -6,7 +6,7 @@ Demo Development
 
 git clone https://github.com/shyjijohn/Google-Clone.git
 
-cd planets
+cd client
 
 npm i 
 
